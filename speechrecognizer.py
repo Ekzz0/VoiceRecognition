@@ -32,7 +32,7 @@ def on_activate_i():
 def exit():
     quit()
 
-
+#ssssssssss
 def press_buttons():
     pg.hotkey('enter')
     time.sleep(0.1)
