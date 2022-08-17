@@ -33,6 +33,7 @@ def exit():
     quit()
 
 #ssssssssss
+#Тестовая ветка ыыыыы
 def press_buttons():
     pg.hotkey('enter')
     time.sleep(0.1)
